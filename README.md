@@ -22,7 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your application.css, add code blow:
+
+```
+*= require metro
+```
+
+In your application.js, add this:
+
+```
+//= require metro
+```
+
+Then, enjoy it!
 
 ## Development
 
